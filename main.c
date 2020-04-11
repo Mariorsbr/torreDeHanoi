@@ -22,7 +22,7 @@ void torreDeHanoi(int n, char *from, char *temp, char *to) {
 
 /*
     Tamanho dos discos: estão representados por valores inteiros 
-    Posições: representados pelas letras A,B,C
+    Posições: representadas pelas letras A,B,C
 */
 
 
