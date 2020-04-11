@@ -2,9 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-/*
-    Para compilar o codigo em c digite no terminal: gcc main.c -o torreDeHanoi
-*/
 
 int numeroDePassos(int n){
     return pow(2,n)-1; // retorna ( (2^n) -1 ) que é o número mínimo de passos
